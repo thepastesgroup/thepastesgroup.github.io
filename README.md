@@ -1,1 +1,1 @@
-# thepastesgroup.github.io
+[Pastes](https://thepastesgroup.github.io/pastes)
